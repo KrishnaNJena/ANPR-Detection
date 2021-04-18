@@ -16,17 +16,17 @@ Run Below Command:
 
 ![image](https://user-images.githubusercontent.com/62303495/115140452-0f0b5f80-a055-11eb-9339-56d87c7d800f.png)
 
-     Input Image 
+>Input Image 
      
-     ![image](https://user-images.githubusercontent.com/62303495/115140948-73c7b980-a057-11eb-9a48-f84ae23de185.png)
+   ![image](https://user-images.githubusercontent.com/62303495/115140948-73c7b980-a057-11eb-9a48-f84ae23de185.png)
 
-     Converted to base64 and provided in Postman:
+>Converted to base64 and provided in Postman:
      
-     ![image](https://user-images.githubusercontent.com/62303495/115140988-affb1a00-a057-11eb-919a-cf18a3bde3ef.png)
+   ![image](https://user-images.githubusercontent.com/62303495/115140988-affb1a00-a057-11eb-919a-cf18a3bde3ef.png)
 
-     Trained SSD Model and extracted the Number Plate using OCR Python
+>Trained SSD Model and extracted the Number Plate using OCR Python
      
-     ![image](https://user-images.githubusercontent.com/62303495/115141023-d7ea7d80-a057-11eb-9f04-c5b381351bf6.png)
+   ![image](https://user-images.githubusercontent.com/62303495/115141023-d7ea7d80-a057-11eb-9f04-c5b381351bf6.png)
 
 
      
