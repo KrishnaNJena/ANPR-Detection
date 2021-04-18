@@ -27,7 +27,7 @@ Run Below Command:
 >Trained SSD Model and extracted the Number Plate using OCR Python
 
 ####Output:
-   ![image](https://user-images.githubusercontent.com/62303495/115141023-d7ea7d80-a057-11eb-9f04-c5b381351bf6.png)
+   ![image] (https://user-images.githubusercontent.com/62303495/115141023-d7ea7d80-a057-11eb-9f04-c5b381351bf6.png)
 
 
      
